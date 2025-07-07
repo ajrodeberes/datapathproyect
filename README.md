@@ -72,5 +72,4 @@ Utilizamos Microsoft Fabric para construir una solución de datos moderna y auto
 
 ---
 
-## 📂 Estructura del Repositorio
 
